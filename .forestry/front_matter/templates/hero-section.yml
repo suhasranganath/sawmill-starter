@@ -39,3 +39,5 @@ fields:
     - Small
   label: Size
   default: Big
+pages:
+- data/Test File Name.yml
